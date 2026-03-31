@@ -43,7 +43,10 @@
 ---
 
 ## 파일 구조
-Oral_Pill_Image_Recognition_Team3/
-├── Project_1_Team3_Final.ipynb  # 최종 제출 코드 (YOLOv8s 기반)
-└── README.md
 
+Oral_Pill_Image_Recognition_Team3/
+├── Project_1_Team3_Final.ipynb          # 최종 제출 코드 (YOLOv8s 기반)
+├── Team_3_Pill-터링_Report.pdf          # 팀 보고서
+├── Team_3_Pill-터링_Presentation.pptx   # 발표 자료
+└── README.md                            # 데이터셋 경로 및 환경 설정 안내 포함
+                                         # (학습 데이터는 Google Drive에서 별도 다운로드)
