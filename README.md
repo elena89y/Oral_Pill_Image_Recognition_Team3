@@ -2,7 +2,8 @@
 [Entry-Level] AI-based Oral Pill Image Recognition and Classification System (Team 3)
 
 [협업노트/회의록 및 진행상황](https://www.notion.so/AI8-_-_3-Pill-3251fffab02c80e696c0f492120e3012)
-[📄 팀 보고서 PDF](https://github.com/elena89y/Oral_Pill_Image_Recognition_Team3/blob/main/%5BProject_1%5DTeam_3_Pill-%ED%84%B0%EB%A7%81_Report.pdf)
+[📄 팀 보고서 PDF](https://github.com/elena89y/Oral_Pill_Image_Recognition_Team3/blob/main/%5BProject_1%5DTeam_3_Pill-%ED%84%B0%EB%A7%81_Report.pdf)  
+[Kaggle 링크](https://www.kaggle.com/competitions/ai08-level1-project)  
 
 ## 팀원
 
